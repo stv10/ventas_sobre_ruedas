@@ -1,0 +1,38 @@
+{
+  "motos": [
+    {
+      "id": 1,
+      "marca": "moto1234",
+      "cilindros": "cil1",
+      "color": "color1"
+    },
+    {
+      "id": 4,
+      "marca": "moto 4",
+      "cilindros": "cil nuevo",
+      "color": "color nuevo"
+    },
+    {
+      "id": 5,
+      "marca": "zdfbgdh",
+      "cilindros": "wergwerg",
+      "color": "eererh"
+    }
+  ],
+  "autos": [
+    {
+      "id": 3,
+      "marca": "Ford",
+      "modelo": "Fiesta",
+      "anio": "2005"
+    }
+  ],
+  "bicis": [
+    {
+      "id": 4,
+      "marca": "Venzo",
+      "rodado": "27",
+      "anio": "2018"
+    }
+  ]
+}
